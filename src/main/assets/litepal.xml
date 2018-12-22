@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="wxpjc"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.example.anull.wxpxxcj181222.Data1"></mapping>
+        <mapping class="com.example.anull.wxpxxcj181222.Data2"></mapping>
+        <mapping class="com.example.anull.wxpxxcj181222.Data3"></mapping>
+        <mapping class="com.example.anull.wxpxxcj181222.Data4"></mapping>
+        <mapping class="com.example.anull.wxpxxcj181222.Data5"></mapping>
+    </list>
+
+</litepal>
